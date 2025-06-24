@@ -4,6 +4,10 @@ A modern, themeable calculator app built with React Native and Expo. This README
 
 ---
 
+- App [Download](https://expo.dev/accounts/dev.siyam/projects/calculator/builds/57feada9-0d13-4a85-8367-b6df300e72ca)
+
+---
+
 ## Features
 - Basic arithmetic operations (+, -, ×, ÷)
 - Percentage calculation (real calculator logic)
@@ -19,7 +23,7 @@ A modern, themeable calculator app built with React Native and Expo. This README
 - **Expo CLI** (`npm install -g expo-cli`)
 - **EAS CLI** (`npm install -g eas-cli`)
 - **Android Studio** (for local device/emulator testing, optional for cloud builds)
-- An [Expo account](https://expo.dev/accounts/dev.siyam/projects/calculator/builds/57feada9-0d13-4a85-8367-b6df300e72ca)
+- An [Expo account](https://expo.dev/signup)
 
 ---
 
